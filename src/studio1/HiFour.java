@@ -19,6 +19,8 @@ public class HiFour {
 		String s3 = in.nextLine();
 		System.out.println("Hello " + s0 + " " + s1 + " " + s2 + " " + s3);
 		//
+		
+		System.out.println("Hello " +s0 +", " +s1 +", " +s2 +", and " +s3 );
 
 	}
 }
